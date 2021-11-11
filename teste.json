@@ -1,0 +1,18 @@
+{
+    "cpf": 12345678901,
+    "RevolvingUtilizationOfUnsecuredLines": 0.170445,
+    "age": 34,
+    "NumberOfTime30-59DaysPastDueNotWorse": 0,
+    "DebtRatio": 0.525246,
+    "MonthlyIncome": 8.699681,
+    "NumberOfOpenCreditLinesAndLoans": 9,
+    "NumberOfTimes90DaysLate": 0,
+    "NumberRealEstateLoansOrLines": 2,
+    "NumberOfTime60-89DaysPastDueNotWorse": 0,
+    "NumberOfDependents": 0.0,
+    "IncomePerPerson": 8.699681,
+    "NumOfPastDue": 0,
+    "MonthlyDebt": 4.569471,
+    "NumOfOpenCreditLines": 7,
+    "age_sqr": 32
+}
